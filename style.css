@@ -1,0 +1,45 @@
+* {
+    border: 1px solid red;
+}
+
+.page_container {
+    display: flex;
+    flex-direction: column;
+
+    /* justify-content: space-around; */
+}
+
+.header {
+    display: flex;
+    /* gap: 40px; */
+    padding: 15px;
+    background-color: #1f2937;
+    color: white;
+
+}
+
+.header_links {
+    align-self: flex-end;
+}
+
+a, header_links {
+
+    color: white;
+    text-decoration-style: none;
+}
+
+.logo {
+    
+}
+
+.top_section {
+
+}
+
+.top_left {
+
+}
+
+.image_placeholder {
+    
+}
